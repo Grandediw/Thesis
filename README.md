@@ -51,6 +51,12 @@ The project is structured as follows:
 
 The key findings of this thesis include the successful identification of the motor’s transfer function and the development of a robust PID controller for both torque and speed regulation. The controller parameters were tuned using various methods (manual tuning, Ziegler-Nichols, and MATLAB’s PID Tuner) and tested on real hardware. The performance of the system was evaluated through step response analysis and experimental testing.
 
+## Model Assembled
+
+Below is the assembled model showcasing the electronic and mechanical components connected:
+
+![Assembled Model](./ModelloAssemblatoFotoDaAlto.png)
+
 ## Code and Implementation
 
 The repository includes:
